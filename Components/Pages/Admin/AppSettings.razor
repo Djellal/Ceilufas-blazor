@@ -1,0 +1,105 @@
+@page "/admin/settings"
+@using Ceilufas.Models
+@using Ceilufas.Services
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize(Roles = Globals.Admin)]
+@inject Globals GlobalsService
+@inject NavigationManager NavigationManager
+
+<PageTitle>Application Settings</PageTitle>
+
+<h1>Application Settings</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h3>Edit Application Settings</h3>
+            </div>
+            <div class="card-body">
+                <EditForm Model="@settings" OnValidSubmit="SaveSettings">
+                    <DataAnnotationsValidator />
+                    <ValidationSummary />
+
+                    <div class="mb-3">
+                        <label for="organizationName" class="form-label">Organization Name</label>
+                        <InputText id="organizationName" @bind-Value="settings.OrganizationName" class="form-control" />
+                        <ValidationMessage For="@(() => settings.OrganizationName)" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="address" class="form-label">Address</label>
+                        <InputTextArea id="address" @bind-Value="settings.Address" class="form-control" rows="3" />
+                        <ValidationMessage For="@(() => settings.Address)" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email</label>
+                        <InputText id="email" @bind-Value="settings.Email" class="form-control" />
+                        <ValidationMessage For="@(() => settings.Email)" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="tel" class="form-label">Telephone</label>
+                        <InputText id="tel" @bind-Value="settings.Tel" class="form-control" />
+                        <ValidationMessage For="@(() => settings.Tel)" />
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Save Settings</button>
+                    <button type="button" class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+                </EditForm>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h3>Current Settings</h3>
+            </div>
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-4">Organization Name</dt>
+                    <dd class="col-sm-8">@GlobalsService.AppSettings.OrganizationName</dd>
+                    
+                    <dt class="col-sm-4">Address</dt>
+                    <dd class="col-sm-8">@GlobalsService.AppSettings.Address</dd>
+                    
+                    <dt class="col-sm-4">Email</dt>
+                    <dd class="col-sm-8">@GlobalsService.AppSettings.Email</dd>
+                    
+                    <dt class="col-sm-4">Telephone</dt>
+                    <dd class="col-sm-8">@GlobalsService.AppSettings.Tel</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private AppSetting settings = new AppSetting();
+
+    protected override void OnInitialized()
+    {
+        // Create a copy of the current settings to avoid modifying the original directly
+        settings = new AppSetting
+        {
+            Id = GlobalsService.AppSettings.Id,
+            OrganizationName = GlobalsService.AppSettings.OrganizationName,
+            Address = GlobalsService.AppSettings.Address,
+            Email = GlobalsService.AppSettings.Email,
+            Tel = GlobalsService.AppSettings.Tel
+        };
+    }
+
+    private void SaveSettings()
+    {
+        GlobalsService.UpdateAppSettings(settings);
+        NavigationManager.NavigateTo("/admin/settings", true);
+    }
+
+    private void Cancel()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}

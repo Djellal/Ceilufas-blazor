@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"khy4lop6wu"},{"Name":"integrity","Value":"sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="},{"Name":"label","Value":"_content/Ceilufas/app.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2900"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Apr 2025 12:08:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Ceilufas/Ceilufas.5nm6m0nk2v.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ceilufas.5nm6m0nk2v.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5nm6m0nk2v"},{"Name":"integrity","Value":"sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="},{"Name":"label","Value":"_content/Ceilufas/Ceilufas.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8026"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Apr 2025 18:08:36 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Ceilufas/Ceilufas.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ceilufas.5nm6m0nk2v.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ceilufas.h2pmd2pek1.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8026"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Apr 2025 18:08:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Apr 2025 18:32:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ceilufas/Ceilufas.h2pmd2pek1.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ceilufas.h2pmd2pek1.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h2pmd2pek1"},{"Name":"integrity","Value":"sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="},{"Name":"label","Value":"_content/Ceilufas/Ceilufas.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Apr 2025 18:32:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Ceilufas/favicon.ifv42okdf2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>

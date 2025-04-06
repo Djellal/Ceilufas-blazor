@@ -32,8 +32,18 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlite(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    .AddRoles<IdentityRole>()  // Add this line
+builder.Services.AddIdentityCore<ApplicationUser>(options => 
+{
+    options.SignIn.RequireConfirmedAccount = true;
+    
+    // Configure password requirements
+    options.Password.RequireDigit = false;
+    options.Password.RequireLowercase = false;
+    options.Password.RequireUppercase = false;
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequiredLength = 4;
+})
+    .AddRoles<IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddSignInManager()
     .AddDefaultTokenProviders();
@@ -87,11 +97,44 @@ using (var scope = app.Services.CreateScope())
                 roleManager.CreateAsync(new IdentityRole(role)).Wait();
             }
         }
+        
+        // Seed admin user
+        var userManager = services.GetRequiredService<UserManager<ApplicationUser>>();
+        var adminEmail = "djellal@univ-setif.dz";
+        var adminUser =await  userManager.FindByEmailAsync(adminEmail);
+        
+        if (adminUser == null)
+        {
+            // Create the admin user if it doesn't exist
+            
+            adminUser = new ApplicationUser
+            {
+                UserName = "djellal",
+                Email = adminEmail,
+                EmailConfirmed = true // Skip email confirmation
+            };
+            
+            var result = await userManager.CreateAsync(adminUser, "dhb571982");
+            if (result.Succeeded)
+            {
+                userManager.AddToRoleAsync(adminUser, Globals.Admin).Wait();
+                Console.WriteLine("Admin user created successfully.");
+            }else
+            {
+                Console.WriteLine("Failed to create admin user.");
+            }
+        }
+        else if (!userManager.IsInRoleAsync(adminUser, Globals.Admin).Result)
+        {
+            // Ensure the user is in the Admin role if they already exist
+            userManager.AddToRoleAsync(adminUser, Globals.Admin).Wait();
+        }
     }
     catch (Exception ex)
     {
         var logger = services.GetRequiredService<ILogger<Program>>();
         logger.LogError(ex, "An error occurred while migrating or seeding the database.");
+        Console.WriteLine(ex.Message);
     }
 }
 

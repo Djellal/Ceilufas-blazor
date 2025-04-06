@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P2ZlW5ZHKZ+mUcgYwhJpXiIExNRMfcUrMSRBhCOKGlo=",
+  "Hash": "zHxzniFXf8jlnyLDcN84/dcJMbD7C3aWcVFhNedOWm0=",
   "Source": "Ceilufas",
   "BasePath": "_content/Ceilufas",
   "Mode": "Default",
@@ -353,12 +353,12 @@
       "OriginalItemSpec": "/home/djellal/workspace/Ceilufas/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-5nm6m0nk2v.gz",
+      "Identity": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-h2pmd2pek1.gz",
       "SourceId": "Ceilufas",
       "SourceType": "Computed",
       "ContentRoot": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/",
       "BasePath": "_content/Ceilufas",
-      "RelativePath": "Ceilufas#[.{fingerprint=5nm6m0nk2v}]?.styles.css.gz",
+      "RelativePath": "Ceilufas#[.{fingerprint=h2pmd2pek1}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -367,8 +367,8 @@
       "RelatedAsset": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/bundle/Ceilufas.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dn2vu2h0c3",
-      "Integrity": "16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=",
+      "Fingerprint": "czyw7bpz2f",
+      "Integrity": "GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/bundle/Ceilufas.styles.css"
@@ -878,12 +878,12 @@
       "OriginalItemSpec": "/home/djellal/workspace/Ceilufas/wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-5nm6m0nk2v.gz",
+      "Identity": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-h2pmd2pek1.gz",
       "SourceId": "Ceilufas",
       "SourceType": "Computed",
       "ContentRoot": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/",
       "BasePath": "_content/Ceilufas",
-      "RelativePath": "Ceilufas#[.{fingerprint=5nm6m0nk2v}]!.bundle.scp.css.gz",
+      "RelativePath": "Ceilufas#[.{fingerprint=h2pmd2pek1}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -892,8 +892,8 @@
       "RelatedAsset": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/projectbundle/Ceilufas.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dn2vu2h0c3",
-      "Integrity": "16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=",
+      "Fingerprint": "czyw7bpz2f",
+      "Integrity": "GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/projectbundle/Ceilufas.bundle.scp.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "5nm6m0nk2v",
-      "Integrity": "If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=",
+      "Fingerprint": "h2pmd2pek1",
+      "Integrity": "l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/bundle/Ceilufas.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "5nm6m0nk2v",
-      "Integrity": "If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=",
+      "Fingerprint": "h2pmd2pek1",
+      "Integrity": "l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/projectbundle/Ceilufas.bundle.scp.css"
@@ -2312,13 +2312,13 @@
       ]
     },
     {
-      "Route": "Ceilufas.5nm6m0nk2v.bundle.scp.css",
-      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-5nm6m0nk2v.gz",
+      "Route": "Ceilufas.bundle.scp.css",
+      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-h2pmd2pek1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000448631673"
+          "Quality": "0.000428449015"
         }
       ],
       "ResponseHeaders": [
@@ -2328,19 +2328,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2228"
+          "Value": "2333"
         },
         {
           "Name": "ETag",
-          "Value": "\"16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=\""
+          "Value": "\"GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2356,26 +2356,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\""
+          "Value": "W/\"l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "5nm6m0nk2v"
-        },
-        {
-          "Name": "label",
-          "Value": "Ceilufas.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="
+          "Value": "sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="
         }
       ]
     },
     {
-      "Route": "Ceilufas.5nm6m0nk2v.bundle.scp.css",
+      "Route": "Ceilufas.bundle.scp.css",
       "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/projectbundle/Ceilufas.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2385,7 +2377,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8026"
+          "Value": "8625"
         },
         {
           "Name": "Content-Type",
@@ -2393,11 +2385,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\""
+          "Value": "\"l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="
+        }
+      ]
+    },
+    {
+      "Route": "Ceilufas.bundle.scp.css.gz",
+      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-h2pmd2pek1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo="
+        }
+      ]
+    },
+    {
+      "Route": "Ceilufas.h2pmd2pek1.bundle.scp.css",
+      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-h2pmd2pek1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000428449015"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2333"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h2pmd2pek1"
+        },
+        {
+          "Name": "label",
+          "Value": "Ceilufas.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="
+        }
+      ]
+    },
+    {
+      "Route": "Ceilufas.h2pmd2pek1.bundle.scp.css",
+      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/projectbundle/Ceilufas.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2407,7 +2544,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5nm6m0nk2v"
+          "Value": "h2pmd2pek1"
         },
         {
           "Name": "label",
@@ -2415,13 +2552,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="
+          "Value": "sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="
         }
       ]
     },
     {
-      "Route": "Ceilufas.5nm6m0nk2v.bundle.scp.css.gz",
-      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-5nm6m0nk2v.gz",
+      "Route": "Ceilufas.h2pmd2pek1.bundle.scp.css.gz",
+      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-h2pmd2pek1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2430,7 +2567,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2228"
+          "Value": "2333"
         },
         {
           "Name": "Content-Type",
@@ -2438,11 +2575,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=\""
+          "Value": "\"GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2460,7 +2597,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5nm6m0nk2v"
+          "Value": "h2pmd2pek1"
         },
         {
           "Name": "label",
@@ -2468,18 +2605,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8="
+          "Value": "sha256-GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo="
         }
       ]
     },
     {
-      "Route": "Ceilufas.5nm6m0nk2v.styles.css",
-      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-5nm6m0nk2v.gz",
+      "Route": "Ceilufas.h2pmd2pek1.styles.css",
+      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-h2pmd2pek1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000448631673"
+          "Quality": "0.000428449015"
         }
       ],
       "ResponseHeaders": [
@@ -2489,15 +2626,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2228"
+          "Value": "2333"
         },
         {
           "Name": "ETag",
-          "Value": "\"16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=\""
+          "Value": "\"GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2517,13 +2654,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\""
+          "Value": "W/\"l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5nm6m0nk2v"
+          "Value": "h2pmd2pek1"
         },
         {
           "Name": "label",
@@ -2531,12 +2668,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="
+          "Value": "sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="
         }
       ]
     },
     {
-      "Route": "Ceilufas.5nm6m0nk2v.styles.css",
+      "Route": "Ceilufas.h2pmd2pek1.styles.css",
       "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/bundle/Ceilufas.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2546,7 +2683,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8026"
+          "Value": "8625"
         },
         {
           "Name": "Content-Type",
@@ -2554,11 +2691,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\""
+          "Value": "\"l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2568,7 +2705,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5nm6m0nk2v"
+          "Value": "h2pmd2pek1"
         },
         {
           "Name": "label",
@@ -2576,13 +2713,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="
+          "Value": "sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="
         }
       ]
     },
     {
-      "Route": "Ceilufas.5nm6m0nk2v.styles.css.gz",
-      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-5nm6m0nk2v.gz",
+      "Route": "Ceilufas.h2pmd2pek1.styles.css.gz",
+      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-h2pmd2pek1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2591,7 +2728,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2228"
+          "Value": "2333"
         },
         {
           "Name": "Content-Type",
@@ -2599,11 +2736,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=\""
+          "Value": "\"GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2621,7 +2758,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5nm6m0nk2v"
+          "Value": "h2pmd2pek1"
         },
         {
           "Name": "label",
@@ -2629,155 +2766,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8="
-        }
-      ]
-    },
-    {
-      "Route": "Ceilufas.bundle.scp.css",
-      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-5nm6m0nk2v.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000448631673"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2228"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="
-        }
-      ]
-    },
-    {
-      "Route": "Ceilufas.bundle.scp.css",
-      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/scopedcss/projectbundle/Ceilufas.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8026"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="
-        }
-      ]
-    },
-    {
-      "Route": "Ceilufas.bundle.scp.css.gz",
-      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-5nm6m0nk2v.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2228"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8="
+          "Value": "sha256-GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo="
         }
       ]
     },
     {
       "Route": "Ceilufas.styles.css",
-      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-5nm6m0nk2v.gz",
+      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-h2pmd2pek1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000448631673"
+          "Quality": "0.000428449015"
         }
       ],
       "ResponseHeaders": [
@@ -2787,15 +2787,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2228"
+          "Value": "2333"
         },
         {
           "Name": "ETag",
-          "Value": "\"16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=\""
+          "Value": "\"GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\""
+          "Value": "W/\"l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="
+          "Value": "sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="
         }
       ]
     },
@@ -2836,7 +2836,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8026"
+          "Value": "8625"
         },
         {
           "Name": "Content-Type",
@@ -2844,11 +2844,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow=\""
+          "Value": "\"l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2858,13 +2858,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-If79JgPkqQIqjjS03x0J6n6EpRYpxtAivfg46iqI4Ow="
+          "Value": "sha256-l1LlSkUjGEDeLoKOn4mtvVnpGNEymS3CS3vo2/0t3Mk="
         }
       ]
     },
     {
       "Route": "Ceilufas.styles.css.gz",
-      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-5nm6m0nk2v.gz",
+      "AssetFile": "/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-h2pmd2pek1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2873,7 +2873,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2228"
+          "Value": "2333"
         },
         {
           "Name": "Content-Type",
@@ -2881,11 +2881,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8=\""
+          "Value": "\"GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:08:36 GMT"
+          "Value": "Sun, 06 Apr 2025 18:32:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2903,7 +2903,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-16qrXjcWC6u9fE7f23JV3vKs4S+GCC+CDPm1A41glm8="
+          "Value": "sha256-GDwJBwJqmPY8TiP6LL1sOLqKlDVvc4hfRFtmXUwGyAo="
         }
       ]
     },

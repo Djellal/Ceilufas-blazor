@@ -8,7 +8,6 @@
 /home/djellal/workspace/Ceilufas/bin/linux/Debug/net9.0/appsettings.json
 /home/djellal/workspace/Ceilufas/bin/linux/Debug/net9.0/Ceilufas.staticwebassets.runtime.json
 /home/djellal/workspace/Ceilufas/bin/linux/Debug/net9.0/Ceilufas.staticwebassets.endpoints.json
-/home/djellal/workspace/Ceilufas/bin/linux/Debug/net9.0/Data/app.db
 /home/djellal/workspace/Ceilufas/bin/linux/Debug/net9.0/Ceilufas
 /home/djellal/workspace/Ceilufas/bin/linux/Debug/net9.0/Ceilufas.deps.json
 /home/djellal/workspace/Ceilufas/bin/linux/Debug/net9.0/Ceilufas.runtimeconfig.json
@@ -190,8 +189,6 @@
 /home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/jmuam7ivol-h1s4sie4z3.gz
 /home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/etkruhiq7t-63fj8s7r0e.gz
 /home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/1fd7mmtf8a-0j3bgjxly4.gz
-/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-5nm6m0nk2v.gz
-/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-5nm6m0nk2v.gz
 /home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/staticwebassets.build.json
 /home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/staticwebassets.development.json
 /home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -207,3 +204,6 @@
 /home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/Ceilufas.pdb
 /home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/Ceilufas.genruntimeconfig.cache
 /home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/ref/Ceilufas.dll
+/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/Ceilufas.sourcelink.json
+/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/bjczrin1y0-h2pmd2pek1.gz
+/home/djellal/workspace/Ceilufas/obj/linux/Debug/net9.0/compressed/u8go7bbmc4-h2pmd2pek1.gz
